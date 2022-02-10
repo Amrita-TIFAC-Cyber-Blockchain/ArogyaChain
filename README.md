@@ -1,4 +1,4 @@
-# ArogyaChain
+# ArogyaChain ![](https://img.shields.io/badge/-Dropped-red.svg)
 
 Blockchain Proof of Concept for Arogya Chain
 
