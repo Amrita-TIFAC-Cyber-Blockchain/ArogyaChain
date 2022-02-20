@@ -1,4 +1,5 @@
 # ArogyaChain ![](https://img.shields.io/badge/-Dropped-red.svg)
+![](https://img.shields.io/badge/Batch-18CSE-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/UI_Internship-blue)
 
 Blockchain Proof of Concept for Arogya Chain
 
@@ -10,7 +11,6 @@ Arogya Chain is a permissioned blockchain solution for Medical Records Managemen
 To be updated
 
 # Acknowledgement
-
 
 # License
 
